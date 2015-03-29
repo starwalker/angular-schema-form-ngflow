@@ -1,5 +1,5 @@
 {
-  "name": "schema-form-ngflow",
+  "name": "angular-schema-form-ngflow",
   "main": [
     "schema-form-ngflow.min.js"
   ],

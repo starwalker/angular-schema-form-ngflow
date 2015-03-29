@@ -7,12 +7,12 @@ This add-on takes an options object via `flowOptions` in the form. More info bel
 
 Installation
 ------------
-The editor is an add-on to the Bootstrap decorator. To use it, just include
+The form field is an add-on to the Bootstrap decorator. To use it, just include
 `schema-form-ngflow.min.js`.
 
 Easiest way is to install is with bower, this will also include dependencies:
 ```bash
-$ bower install chengz/schema-form-ngflow
+$ bower install angular-schema-form-ngflow
 ```
 
 You'll need to load a few additional files to use the editor:
@@ -51,7 +51,7 @@ mapping.
 Options
 -------
 The `ng-flow` form takes one option, `flowOptions`. This is an object with any
-and all options availible to tinymce.
+and all options available to ng-flow.
 
 ### Example
 This example replaces the standard toolbar with one we choose.
